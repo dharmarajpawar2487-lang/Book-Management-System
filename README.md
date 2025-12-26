@@ -43,7 +43,7 @@ http://localhost:8080
 ---
 
 ## 👨‍💻 Developed By
-**Dharamaraj Pawar**
+**Dharmraj Pawar**
 
 ---
 
